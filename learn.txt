@@ -1,6 +1,9 @@
 解读Android官方MVP项目单元测试
 http://www.jianshu.com/p/cf446be43ae8
 
+Android NDK笔记
+http://www.jianshu.com/p/339894f6e498
+
 Android gradle介绍
 http://www.cnblogs.com/youxilua/archive/2013/05/20/3087935.html
 
