@@ -22,6 +22,11 @@ http://www.cnblogs.com/skywang12345/category/455711.html
 JavaScript学习
 http://www.cnblogs.com/leadzen/archive/2008/02/25/1073404.html
 
+O(1) < O(log2N) < O(n) < O(N * log2N) < O(N2) < O(N3) < 2N < 3N < N!
+前四个比较好、中间两个一般、后3个很烂。也就是说O(N2)是相对糟糕的一种时间复杂度了，N大一点，程序就会执行得比较慢。
+LinkedList为什么不能用for循环遍历
+http://blog.csdn.net/u010853261/article/details/54143917
+
 http://zjutkz.net/2016/04/13/%E9%80%89%E6%8B%A9%E6%81%90%E6%83%A7%E7%97%87%E7%9A%84%E7%A6%8F%E9%9F%B3%EF%BC%81%E6%95%99%E4%BD%A0%E8%AE%A4%E6%B8%85MVC%EF%BC%8CMVP%E5%92%8CMVVM/
 http://ifeve.com/concurrentlinkedqueue/
 http://zl198751.iteye.com/blog/1848575
