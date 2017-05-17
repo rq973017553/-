@@ -19,6 +19,9 @@ https://developer.android.com/ndk/guides/android_mk.html
 Java主要的API源码分析，非常的详细，好东西
 http://www.cnblogs.com/skywang12345/category/455711.html
 
+Context都没弄明白，还怎么做Android开发？
+http://www.jianshu.com/p/94e0f9ab3f1d
+
 JavaScript学习
 http://www.cnblogs.com/leadzen/archive/2008/02/25/1073404.html
 
