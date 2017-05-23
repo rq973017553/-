@@ -25,6 +25,9 @@ http://www.jianshu.com/p/94e0f9ab3f1d
 自定义一个更好用的SwipeRefreshLayout（弹力拉伸效果详解）
 https://segmentfault.com/a/1190000007237954?_ea=1290154
 
+FlyRefresh
+https://race604.com/flyrefresh/
+
 JavaScript学习
 http://www.cnblogs.com/leadzen/archive/2008/02/25/1073404.html
 
