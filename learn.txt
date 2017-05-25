@@ -28,6 +28,9 @@ https://segmentfault.com/a/1190000007237954?_ea=1290154
 FlyRefresh
 https://race604.com/flyrefresh/
 
+Android View框架的measure机制(讲解了MeasureSpec.makeMeasureSpec(Integer.MAX_VALUE >> 2, MeasureSpec.AT_MOST);)
+http://www.cnblogs.com/xyhuangjinfu/p/5435201.html
+
 JavaScript学习
 http://www.cnblogs.com/leadzen/archive/2008/02/25/1073404.html
 
