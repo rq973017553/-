@@ -34,6 +34,9 @@ http://www.cnblogs.com/xyhuangjinfu/p/5435201.html
 庖丁解牛之ScrollView
 http://blog.csdn.net/litefish/article/details/52127930
 
+Android平台Camera实时滤镜
+http://blog.csdn.net/oShunz/article/category/5952777
+
 【Android效果集】学习ExplosionField之粒子破碎效果
 http://blog.csdn.net/xieyupeng520/article/details/49951835
 
