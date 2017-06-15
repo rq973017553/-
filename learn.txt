@@ -40,6 +40,9 @@ http://blog.csdn.net/oShunz/article/category/5952777
 【Android效果集】学习ExplosionField之粒子破碎效果
 http://blog.csdn.net/xieyupeng520/article/details/49951835
 
+Java并发之AQS详解
+http://www.cnblogs.com/waterystone/p/4920797.html
+
 JavaScript学习
 http://www.cnblogs.com/leadzen/archive/2008/02/25/1073404.html
 
