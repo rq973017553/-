@@ -28,6 +28,9 @@ http://blog.csdn.net/race604/article/details/9331807
 自定义一个更好用的SwipeRefreshLayout（弹力拉伸效果详解）
 https://segmentfault.com/a/1190000007237954?_ea=1290154
 
+深入理解Android
+http://blog.csdn.net/column/details/innost.html
+
 FlyRefresh
 https://race604.com/flyrefresh/
 
