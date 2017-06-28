@@ -52,6 +52,9 @@ http://www.cnblogs.com/waterystone/p/4920797.html
 JavaScript学习
 http://www.cnblogs.com/leadzen/archive/2008/02/25/1073404.html
 
+Google推荐的ListView的Adapter的局部刷新
+http://blog.csdn.net/linglongxin24/article/details/53020164?ref=myread
+
 O(1) < O(log2N) < O(n) < O(N * log2N) < O(N2) < O(N3) < 2N < 3N < N!
 前四个比较好、中间两个一般、后3个很烂。也就是说O(N2)是相对糟糕的一种时间复杂度了，N大一点，程序就会执行得比较慢。
 LinkedList为什么不能用for循环遍历
