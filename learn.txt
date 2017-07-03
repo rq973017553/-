@@ -46,6 +46,9 @@ http://blog.csdn.net/litefish/article/details/52127930
 Android平台Camera实时滤镜
 http://blog.csdn.net/oShunz/article/category/5952777
 
+Android应用坐标系统全面详解
+http://blog.csdn.net/feizhixuan46789/article/details/50520197
+
 【Android效果集】学习ExplosionField之粒子破碎效果
 http://blog.csdn.net/xieyupeng520/article/details/49951835
 
