@@ -64,6 +64,9 @@ http://blog.csdn.net/u012422440/article/details/50992955
 Android ScrollView监听滑动到顶部和底部
 http://www.cnblogs.com/popfisher/p/5709202.html
 
+Android Gradle 插件中文指南
+http://blog.csdn.net/skykingf/article/details/47127337
+
 Java并发之AQS详解
 http://www.cnblogs.com/waterystone/p/4920797.html
 
