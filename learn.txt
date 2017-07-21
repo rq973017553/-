@@ -52,6 +52,9 @@ http://blog.csdn.net/litefish/article/details/52127930
 Android平台Camera实时滤镜
 http://blog.csdn.net/oShunz/article/category/5952777
 
+Android应用中平滑的手写效果实现(签名级别的)
+http://blog.csdn.net/ekeuy/article/details/37962845
+
 Android应用坐标系统全面详解
 http://blog.csdn.net/feizhixuan46789/article/details/50520197
 
