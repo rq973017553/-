@@ -55,6 +55,9 @@ http://blog.csdn.net/oShunz/article/category/5952777
 Android应用中平滑的手写效果实现(签名级别的)
 http://blog.csdn.net/ekeuy/article/details/37962845
 
+手写后输入到记事本
+http://blog.csdn.net/jesson20121020/article/details/39376927
+
 Android应用坐标系统全面详解
 http://blog.csdn.net/feizhixuan46789/article/details/50520197
 
