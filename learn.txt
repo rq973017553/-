@@ -43,6 +43,9 @@ https://race604.com/flyrefresh/
 RxJava 2.x讲解系列(我能看懂的)
 http://blog.csdn.net/qq_35064774/article/details/53057332
 
+RxJava+MVP+Retrofit+Dagger2+Okhttp大杂烩
+http://www.jianshu.com/p/43c4407e442e
+
 ListView控件源码解析
 http://blog.csdn.net/guolin_blog/article/details/44996879
 
