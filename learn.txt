@@ -34,6 +34,9 @@ http://blog.csdn.net/lmj623565791/article/details/38173061
 onInterceptTouchEvent和onTouchEvent调用时序
 http://blog.csdn.net/ddna/article/details/5473293
 
+再说Android RecyclerView局部刷新那个坑
+http://blog.csdn.net/jdsjlzx/article/details/52893469
+
 深入理解Android
 http://blog.csdn.net/column/details/innost.html
 
