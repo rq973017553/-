@@ -85,6 +85,9 @@ http://blog.csdn.net/skykingf/article/details/47127337
 Java并发之AQS详解
 http://www.cnblogs.com/waterystone/p/4920797.html
 
+SQLiteCantOpenDatabaseException 不错的问题分析
+http://www.cnblogs.com/hellocwh/p/5061805.html
+
 JavaScript学习
 http://www.cnblogs.com/leadzen/archive/2008/02/25/1073404.html
 
