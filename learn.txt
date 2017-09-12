@@ -85,6 +85,9 @@ http://blog.csdn.net/skykingf/article/details/47127337
 Java并发之AQS详解
 http://www.cnblogs.com/waterystone/p/4920797.html
 
+Android数据库进阶-从SQLite到ORMLite封装(里面包含获取子类的泛型类型的方法)
+http://www.jianshu.com/p/776a01485d91
+
 SQLiteCantOpenDatabaseException 不错的问题分析
 http://www.cnblogs.com/hellocwh/p/5061805.html
 
