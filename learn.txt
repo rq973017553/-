@@ -40,6 +40,9 @@ http://blog.csdn.net/jdsjlzx/article/details/52893469
 深入理解Android
 http://blog.csdn.net/column/details/innost.html
 
+Android 生成正式签名的APK文件
+http://www.jianshu.com/p/1a92ec4b8edf
+
 FlyRefresh
 https://race604.com/flyrefresh/
 
