@@ -58,6 +58,10 @@ http://blog.csdn.net/guolin_blog/article/details/44996879
 Android View框架的measure机制(讲解了MeasureSpec.makeMeasureSpec(Integer.MAX_VALUE >> 2, MeasureSpec.AT_MOST);)
 http://www.cnblogs.com/xyhuangjinfu/p/5435201.html
 
+配置方法数超过 64K 的应用 官方资料
+https://developer.android.com/studio/build/multidex.html#avoid
+https://developer.android.com/studio/build/shrink-code.html
+
 庖丁解牛之ScrollView
 http://blog.csdn.net/litefish/article/details/52127930
 
