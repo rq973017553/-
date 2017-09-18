@@ -62,6 +62,9 @@ http://www.cnblogs.com/xyhuangjinfu/p/5435201.html
 https://developer.android.com/studio/build/multidex.html#avoid
 https://developer.android.com/studio/build/shrink-code.html
 
+编译中断使用dexOptions解决的方法
+http://blog.csdn.net/nwsuafer/article/details/47189637
+
 庖丁解牛之ScrollView
 http://blog.csdn.net/litefish/article/details/52127930
 
