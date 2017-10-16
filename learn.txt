@@ -46,6 +46,12 @@ http://blog.csdn.net/column/details/innost.html
 Android 生成正式签名的APK文件
 http://www.jianshu.com/p/1a92ec4b8edf
 
+Android Looper类代码分析
+http://blog.csdn.net/fuyajun01/article/details/38052601
+
+Android多线程分析之四：MessageQueue的实现
+http://blog.csdn.net/kesalin/article/details/37765707
+
 FlyRefresh
 https://race604.com/flyrefresh/
 
