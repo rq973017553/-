@@ -52,6 +52,9 @@ http://blog.csdn.net/fuyajun01/article/details/38052601
 Android多线程分析之四：MessageQueue的实现
 http://blog.csdn.net/kesalin/article/details/37765707
 
+epoll讲解
+http://www.cnblogs.com/melons/p/5791788.html
+
 FlyRefresh
 https://race604.com/flyrefresh/
 
