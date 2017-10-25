@@ -61,6 +61,9 @@ https://race604.com/flyrefresh/
 RxJava 2.x讲解系列(我能看懂的)
 http://blog.csdn.net/qq_35064774/article/details/53057332
 
+给初学者的RxJava2.0教程(非常好的系列)
+http://www.jianshu.com/p/464fa025229e
+
 RxJava+MVP+Retrofit+Dagger2+Okhttp大杂烩
 http://www.jianshu.com/p/43c4407e442e
 
