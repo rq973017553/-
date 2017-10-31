@@ -122,6 +122,10 @@ http://www.jianshu.com/p/776a01485d91
 SQLiteCantOpenDatabaseException 不错的问题分析
 http://www.cnblogs.com/hellocwh/p/5061805.html
 
+android permission权限与安全机制解析
+http://blog.csdn.net/self_study/article/details/50074781
+http://blog.csdn.net/self_study/article/details/50186435
+
 JavaScript学习
 http://www.cnblogs.com/leadzen/archive/2008/02/25/1073404.html
 
