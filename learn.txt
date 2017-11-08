@@ -52,6 +52,9 @@ http://blog.csdn.net/fuyajun01/article/details/38052601
 Android多线程分析之四：MessageQueue的实现
 http://blog.csdn.net/kesalin/article/details/37765707
 
+android sqlite数据库并发问题的详细描述和解决方案
+http://blog.csdn.net/nightcurtis/article/details/43014913
+
 epoll讲解
 http://www.cnblogs.com/melons/p/5791788.html
 http://blog.csdn.net/xiajun07061225/article/details/9250579
