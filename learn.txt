@@ -65,6 +65,9 @@ http://www.cnblogs.com/kross/p/4025075.html
 FlyRefresh
 https://race604.com/flyrefresh/
 
+ViewPager使用详解(一):PagerAdapter
+http://www.jianshu.com/p/6fabf634d5bd
+
 RxJava 2.x讲解系列(我能看懂的)
 http://blog.csdn.net/qq_35064774/article/details/53057332
 
