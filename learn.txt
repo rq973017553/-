@@ -156,6 +156,9 @@ Android 属性动画
 http://blog.csdn.net/lmj623565791/article/details/38067475/
 http://blog.csdn.net/lmj623565791/article/details/38092093
 
+alpha、scale、translate、rotate、set的xml属性及用法
+http://blog.csdn.net/harvic880925/article/details/39996643
+
 ImageLoader源码解析好文
 http://www.cnblogs.com/kissazi2/p/3901369.html
 http://www.cnblogs.com/kissazi2/p/3903899.html
