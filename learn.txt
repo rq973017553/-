@@ -158,6 +158,7 @@ https://zhuanlan.zhihu.com/p/27199954
 Android 属性动画
 http://blog.csdn.net/lmj623565791/article/details/38067475/
 http://blog.csdn.net/lmj623565791/article/details/38092093
+http://blog.csdn.net/xuepeng0728119/article/details/50607534
 
 alpha、scale、translate、rotate、set的xml属性及用法
 http://blog.csdn.net/harvic880925/article/details/39996643
