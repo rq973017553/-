@@ -59,7 +59,7 @@ android sqlite数据库并发问题的详细描述和解决方案
 http://blog.csdn.net/nightcurtis/article/details/43014913
 
 Java并发编程：volatile关键字解析
-http://www.importnew.com/18126.html
+http://www.cnblogs.com/dolphin0520/p/3920373.html
 
 epoll讲解
 http://www.cnblogs.com/melons/p/5791788.html
