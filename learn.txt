@@ -28,6 +28,9 @@ http://blog.csdn.net/race604/article/details/9331807
 自定义一个更好用的SwipeRefreshLayout（弹力拉伸效果详解）
 https://segmentfault.com/a/1190000007237954?_ea=1290154
 
+聊聊 Android ANR 那点事儿
+https://www.jianshu.com/p/b3558fe64124
+
 保存/恢复 Activity 和 Fragment 状态的最佳实践
 https://segmentfault.com/a/1190000006691830
 
