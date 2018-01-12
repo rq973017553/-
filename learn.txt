@@ -31,6 +31,9 @@ https://segmentfault.com/a/1190000007237954?_ea=1290154
 聊聊 Android ANR 那点事儿
 https://www.jianshu.com/p/b3558fe64124
 
+Android N 各种ANR的时间
+http://blog.csdn.net/u013122625/article/details/74676666
+
 保存/恢复 Activity 和 Fragment 状态的最佳实践
 https://segmentfault.com/a/1190000006691830
 
