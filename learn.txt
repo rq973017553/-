@@ -80,6 +80,9 @@ https://race604.com/flyrefresh/
 ViewPager使用详解(一):PagerAdapter
 http://www.jianshu.com/p/6fabf634d5bd
 
+Android Studio gradle插件版本和gradle版本对应关系
+http://blog.csdn.net/whj9073/article/details/76854692
+
 RxJava 2.x讲解系列(我能看懂的)
 http://blog.csdn.net/qq_35064774/article/details/53057332
 
