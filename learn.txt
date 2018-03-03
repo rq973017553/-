@@ -176,6 +176,9 @@ http://blog.csdn.net/qq_33689414/article/details/53152212
 关于View整体调用流程
 https://segmentfault.com/a/1190000005695577
 
+教你步步为营掌握自定义View
+https://www.jianshu.com/p/d507e3514b65
+
 去马赛克的黑科技
 https://zhuanlan.zhihu.com/p/27199954
 
