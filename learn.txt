@@ -86,6 +86,9 @@ http://blog.csdn.net/whj9073/article/details/76854692
 Gradle学习系列之一——Gradle快速入门
 http://www.cnblogs.com/davenkin/p/gradle-learning-1.html
 
+彻底搞懂Gradle、Gradle Wrapper与Android Plugin for Gradle的区别和联系
+https://www.cnblogs.com/jiangxinnju/p/8229129.html
+
 RxJava 2.x讲解系列(我能看懂的)
 http://blog.csdn.net/qq_35064774/article/details/53057332
 
