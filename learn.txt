@@ -89,6 +89,9 @@ http://www.cnblogs.com/davenkin/p/gradle-learning-1.html
 彻底搞懂Gradle、Gradle Wrapper与Android Plugin for Gradle的区别和联系
 https://www.cnblogs.com/jiangxinnju/p/8229129.html
 
+Canvas绘制内容(非常好的文章)
+http://hencoder.com/ui-1-2/
+
 RxJava 2.x讲解系列(我能看懂的)
 http://blog.csdn.net/qq_35064774/article/details/53057332
 
