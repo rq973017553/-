@@ -120,6 +120,9 @@ http://blog.csdn.net/nwsuafer/article/details/47189637
 庖丁解牛之ScrollView
 http://blog.csdn.net/litefish/article/details/52127930
 
+关于使用AlarmManager的注意事项
+https://www.jianshu.com/p/d69a90bc44c0
+
 Android平台Camera实时滤镜
 http://blog.csdn.net/oShunz/article/category/5952777
 
