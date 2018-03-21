@@ -52,6 +52,11 @@ http://www.cnblogs.com/xiaoweiz/p/3674836.html
 深入理解Android
 http://blog.csdn.net/column/details/innost.html
 
+自定义ViewGroup(1,2,3)
+https://my.oschina.net/fengheju/blog/196266
+https://my.oschina.net/fengheju/blog/196455
+https://my.oschina.net/fengheju/blog/196608
+
 Android 生成正式签名的APK文件
 http://www.jianshu.com/p/1a92ec4b8edf
 
