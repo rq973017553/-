@@ -168,6 +168,9 @@ http://blog.csdn.net/self_study/article/details/50186435
 JavaScript学习
 http://www.cnblogs.com/leadzen/archive/2008/02/25/1073404.html
 
+ImageView的ScaleType原理及效果分析
+https://www.jianshu.com/p/fe5d2e3feed3
+
 Google推荐的ListView的Adapter的局部刷新
 http://blog.csdn.net/linglongxin24/article/details/53020164?ref=myread
 
