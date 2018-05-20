@@ -106,6 +106,9 @@ http://www.jianshu.com/p/464fa025229e
 不错的博客
 https://blog.piasy.com/
 
+http报文详解
+https://www.jianshu.com/p/74153d906e77
+
 RxJava+MVP+Retrofit+Dagger2+Okhttp大杂烩
 http://www.jianshu.com/p/43c4407e442e
 
