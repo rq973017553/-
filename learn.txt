@@ -52,6 +52,9 @@ http://www.cnblogs.com/xiaoweiz/p/3674836.html
 深入理解Android
 http://blog.csdn.net/column/details/innost.html
 
+Lottie开源动画库介绍与使用示例(拥有能够在浏览器中预览json动画数据的网站)
+https://www.jianshu.com/p/9a2136ecbc7b
+
 自定义ViewGroup(1,2,3)
 https://my.oschina.net/fengheju/blog/196266
 https://my.oschina.net/fengheju/blog/196455
