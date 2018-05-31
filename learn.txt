@@ -25,6 +25,9 @@ http://www.jianshu.com/p/94e0f9ab3f1d
 Context(有不同Context的使用列表)
 http://blog.csdn.net/race604/article/details/9331807
 
+自定义View教学(给高级 Android 工程师的进阶手册)
+http://hencoder.com/overview/
+
 自定义一个更好用的SwipeRefreshLayout（弹力拉伸效果详解）
 https://segmentfault.com/a/1190000007237954?_ea=1290154
 
