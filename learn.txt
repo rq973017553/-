@@ -52,6 +52,9 @@ http://blog.csdn.net/jdsjlzx/article/details/52893469
 Android源码分析之MessageQueue
 http://www.cnblogs.com/xiaoweiz/p/3674836.html
 
+Android 开发知识技能点指南(彪哥的私人网站)
+https://www.kancloud.cn/yumufeng/get-android-offer/183778 
+
 深入理解Android
 http://blog.csdn.net/column/details/innost.html
 
