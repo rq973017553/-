@@ -189,6 +189,9 @@ http://blog.csdn.net/self_study/article/details/50186435
 JavaScript学习
 http://www.cnblogs.com/leadzen/archive/2008/02/25/1073404.html
 
+Android NDK 开发：CMake 使用
+https://www.jianshu.com/p/c71ec5d63f0d
+
 ImageView的ScaleType原理及效果分析
 https://www.jianshu.com/p/fe5d2e3feed3
 
