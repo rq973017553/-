@@ -61,6 +61,9 @@ https://www.kancloud.cn/yumufeng/get-android-offer/183778
 深入理解Android
 http://blog.csdn.net/column/details/innost.html
 
+很好的自定义View教学
+https://hencoder.com/
+
 如何优雅的关闭Java线程池
 https://www.cnblogs.com/qingquanzi/p/9018627.html
 
