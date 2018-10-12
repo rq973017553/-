@@ -81,6 +81,9 @@ http://www.jianshu.com/p/1a92ec4b8edf
 Android Looper类代码分析
 http://blog.csdn.net/fuyajun01/article/details/38052601
 
+为什么你的自定义View wrap_content不起作用(挺重要的一个分析!!!)
+https://www.jianshu.com/p/ca118d704b5e
+
 Android多线程分析之四：MessageQueue的实现
 http://blog.csdn.net/kesalin/article/details/37765707
 
