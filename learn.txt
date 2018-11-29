@@ -67,6 +67,9 @@ https://blog.csdn.net/shulianghan/article/details/38487967
 ffmpeg编译选项汇总
 https://www.cnblogs.com/wainiwann/p/4204230.html
 
+Android最简单的基于FFmpeg的例子
+http://www.ihubin.com/blog/android-ffmpeg-demo-1/
+
 很好的自定义View教学
 https://hencoder.com/
 
