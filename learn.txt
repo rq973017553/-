@@ -64,6 +64,9 @@ http://blog.csdn.net/column/details/innost.html
 MediaPlayer 状态机,接口方法解析
 https://blog.csdn.net/shulianghan/article/details/38487967
 
+Ubuntu下安装和编译ffmpeg
+https://www.cnblogs.com/candycaicai/p/4689459.html
+
 ffmpeg编译选项汇总
 https://www.cnblogs.com/wainiwann/p/4204230.html
 
