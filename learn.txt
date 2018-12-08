@@ -67,6 +67,12 @@ https://blog.csdn.net/shulianghan/article/details/38487967
 Ubuntu下安装和编译ffmpeg
 https://www.cnblogs.com/candycaicai/p/4689459.html
 
+解决libavdevice.so.57: cannot open shared object file: No such file or directory
+https://www.cnblogs.com/freeweb/p/6897907.html
+
+FFmpeg 详尽编译过程(Android版本)
+https://blog.csdn.net/junhuahouse/article/details/79236932
+
 ffmpeg编译选项汇总
 https://www.cnblogs.com/wainiwann/p/4204230.html
 
