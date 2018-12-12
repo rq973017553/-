@@ -76,6 +76,9 @@ https://blog.csdn.net/junhuahouse/article/details/79236932
 ffmpeg编译选项汇总
 https://www.cnblogs.com/wainiwann/p/4204230.html
 
+《FFmpeg精讲与实战》常见问题与解答
+https://m.imooc.com/mip/article/253497
+
 shell中各种括号的作用()、(())、[]、[[]]、{}
 https://blog.csdn.net/taiyang1987912/article/details/39551385
 
