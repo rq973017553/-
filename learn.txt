@@ -209,6 +209,9 @@ http://www.cnblogs.com/waterystone/p/4920797.html
 Android数据库进阶-从SQLite到ORMLite封装(里面包含获取子类的泛型类型的方法)
 http://www.jianshu.com/p/776a01485d91
 
+泛型类型Type的详解
+https://blog.csdn.net/zhaobo012387/article/details/78144328
+
 SQLiteCantOpenDatabaseException 不错的问题分析
 http://www.cnblogs.com/hellocwh/p/5061805.html
 
