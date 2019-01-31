@@ -114,6 +114,9 @@ http://blog.csdn.net/kesalin/article/details/37765707
 android sqlite数据库并发问题的详细描述和解决方案
 http://blog.csdn.net/nightcurtis/article/details/43014913
 
+HashMap分析(微信)
+https://mp.weixin.qq.com/s/Zf6eBolmxKbMPwWKU_DDTQ
+
 Java并发编程：volatile关键字解析
 http://www.cnblogs.com/dolphin0520/p/3920373.html
 
