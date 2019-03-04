@@ -163,6 +163,10 @@ http://www.jianshu.com/p/43c4407e442e
 java.lang.IllegalArgumentException: Comparison method violates its general contract!
 https://yq.aliyun.com/articles/47048
 
+固态硬盘4K对齐
+https://bbs.thinkpad.com/thread-893316-1-1.html
+https://bbs.thinkpad.com/thread-2780627-1-1.html
+
 ListView控件源码解析
 http://blog.csdn.net/guolin_blog/article/details/44996879
 
