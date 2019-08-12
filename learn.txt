@@ -43,6 +43,9 @@ https://segmentfault.com/a/1190000006691830
 ConstraintLayout使用汇总
 https://segmentfault.com/a/1190000014876944
 
+好懂的group by的用法和原理
+https://blog.csdn.net/hengji666/article/details/54924387
+
 Android 自定义RecyclerView 实现真正的Gallery效果
 http://blog.csdn.net/lmj623565791/article/details/38173061
 
