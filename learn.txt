@@ -31,6 +31,9 @@ http://hencoder.com/overview/
 自定义一个更好用的SwipeRefreshLayout（弹力拉伸效果详解）
 https://segmentfault.com/a/1190000007237954?_ea=1290154
 
+RecyclerView 复用错乱通用解法
+https://blog.csdn.net/MeloDev/article/details/76691951
+
 聊聊 Android ANR 那点事儿
 https://www.jianshu.com/p/b3558fe64124
 
