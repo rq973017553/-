@@ -76,6 +76,9 @@ https://blog.csdn.net/shulianghan/article/details/38487967
 Ubuntu下安装和编译ffmpeg
 https://www.cnblogs.com/candycaicai/p/4689459.html
 
+每日一问：浅谈 onAttachedToWindow 和 onDetachedFromWindow
+https://www.cnblogs.com/liushilin/p/11099856.html
+
 解决libavdevice.so.57: cannot open shared object file: No such file or directory
 https://www.cnblogs.com/freeweb/p/6897907.html
 
