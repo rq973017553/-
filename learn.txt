@@ -181,6 +181,9 @@ https://blog.piasy.com/
 http报文详解
 https://www.jianshu.com/p/74153d906e77
 
+Android View.getLocalVisibleRect的使用(View是否在可见区域)
+https://www.jianshu.com/p/f131a390eb52
+
 RxJava+MVP+Retrofit+Dagger2+Okhttp大杂烩
 http://www.jianshu.com/p/43c4407e442e
 
