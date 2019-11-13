@@ -64,6 +64,9 @@ http://blog.csdn.net/jdsjlzx/article/details/52893469
 WebView&HTML5-----使用WebView播放HTML5视频文件
 https://www.cnblogs.com/jerehedu/p/5062432.html
 
+android实现八大行星绕太阳3D旋转效果
+https://www.jianshu.com/p/2954f2ef8ea5
+
 Android源码分析之MessageQueue
 http://www.cnblogs.com/xiaoweiz/p/3674836.html
 
