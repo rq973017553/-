@@ -79,6 +79,9 @@ http://blog.csdn.net/column/details/innost.html
 MediaPlayer 状态机,接口方法解析
 https://blog.csdn.net/shulianghan/article/details/38487967
 
+Android中巧妙的位运算
+https://blog.csdn.net/zzp16/article/details/7956768
+
 Ubuntu下安装和编译ffmpeg
 https://www.cnblogs.com/candycaicai/p/4689459.html
 
