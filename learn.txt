@@ -79,6 +79,9 @@ http://blog.csdn.net/column/details/innost.html
 MediaPlayer 状态机,接口方法解析
 https://blog.csdn.net/shulianghan/article/details/38487967
 
+下载AOSP android源码（最小最快下载方式，跳过编译直接导入Android Studio） Ubuntu 16.04
+https://www.jianshu.com/p/3922ec229077
+
 Android中巧妙的位运算
 https://blog.csdn.net/zzp16/article/details/7956768
 
