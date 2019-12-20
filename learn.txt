@@ -118,6 +118,9 @@ https://www.wanandroid.com/blog/show/2
 Android最简单的基于FFmpeg的例子
 http://www.ihubin.com/blog/android-ffmpeg-demo-1/
 
+你不能错过的View事件分发机制分析(微信文章)
+https://mp.weixin.qq.com/s/-dS1M0eFKJEAA-7viMi8Vw
+
 很好的自定义View教学
 https://hencoder.com/
 
