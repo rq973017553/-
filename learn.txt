@@ -71,7 +71,13 @@ Android源码分析之MessageQueue
 http://www.cnblogs.com/xiaoweiz/p/3674836.html
 
 Android 开发知识技能点指南(彪哥的私人网站)
-https://www.kancloud.cn/yumufeng/get-android-offer/183778 
+https://www.kancloud.cn/yumufeng/get-android-offer/183778
+
+flutter实战
+https://book.flutterchina.club/
+
+dart
+https://dart.dev/
 
 深入理解Android
 http://blog.csdn.net/column/details/innost.html
@@ -324,6 +330,9 @@ http://blog.csdn.net/xuepeng0728119/article/details/50607534
 
 alpha、scale、translate、rotate、set的xml属性及用法
 http://blog.csdn.net/harvic880925/article/details/39996643
+
+Android 动画详解（一）之Animation
+https://blog.csdn.net/lzn0511/article/details/78764444
 
 ImageLoader源码解析好文
 http://www.cnblogs.com/kissazi2/p/3901369.html
