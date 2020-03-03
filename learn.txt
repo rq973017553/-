@@ -165,6 +165,9 @@ http://www.cnblogs.com/dolphin0520/p/3920373.html
 Java多线程系列
 http://www.cnblogs.com/skywang12345/p/java_threads_category.html
 
+读写锁ReentrantReadWriteLock之锁降级
+https://www.jianshu.com/p/0f4a1995f57d
+
 JVM的线程状态及如何排查死锁原因
 https://blog.csdn.net/u014484649/article/details/27338819
 
