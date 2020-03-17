@@ -236,6 +236,9 @@ http://blog.csdn.net/guolin_blog/article/details/44996879
 Android View框架的measure机制(讲解了MeasureSpec.makeMeasureSpec(Integer.MAX_VALUE >> 2, MeasureSpec.AT_MOST);)
 http://www.cnblogs.com/xyhuangjinfu/p/5435201.html
 
+自定义View Measure过程 - 最易懂的自定义View原理系列（2）
+https://www.jianshu.com/p/1dab927b2f36
+
 配置方法数超过 64K 的应用 官方资料
 https://developer.android.com/studio/build/multidex.html#avoid
 https://developer.android.com/studio/build/shrink-code.html
