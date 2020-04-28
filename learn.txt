@@ -37,6 +37,9 @@ https://blog.csdn.net/MeloDev/article/details/76691951
 requestLayout和invalidate区别
 https://blog.csdn.net/hxl517116279/article/details/90410345
 
+从ViewRootImpl类分析View绘制的流程
+https://blog.csdn.net/feiduclear_up/article/details/46772477
+
 聊聊 Android ANR 那点事儿
 https://www.jianshu.com/p/b3558fe64124
 
