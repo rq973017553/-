@@ -34,6 +34,9 @@ https://segmentfault.com/a/1190000007237954?_ea=1290154
 RecyclerView 复用错乱通用解法
 https://blog.csdn.net/MeloDev/article/details/76691951
 
+requestLayout和invalidate区别
+https://blog.csdn.net/hxl517116279/article/details/90410345
+
 聊聊 Android ANR 那点事儿
 https://www.jianshu.com/p/b3558fe64124
 
@@ -42,6 +45,12 @@ http://blog.csdn.net/u013122625/article/details/74676666
 
 保存/恢复 Activity 和 Fragment 状态的最佳实践
 https://segmentfault.com/a/1190000006691830
+
+面试加分项-HashMap源码中这些常量的设计目的
+https://www.cnblogs.com/jay-huaxiao/p/11482003.html
+
+由HashMap哈希算法引出的求余%和与运算&转换问题
+https://www.cnblogs.com/ysocean/p/9054804.html
 
 ConstraintLayout使用汇总
 https://segmentfault.com/a/1190000014876944
@@ -60,6 +69,9 @@ https://blog.csdn.net/briblue/article/details/73824058
 
 onInterceptTouchEvent和onTouchEvent调用时序
 http://blog.csdn.net/ddna/article/details/5473293
+
+这篇文章带你彻底解决：android事件分发
+https://zhuanlan.zhihu.com/p/76655500
 
 再说Android RecyclerView局部刷新那个坑
 http://blog.csdn.net/jdsjlzx/article/details/52893469
@@ -84,6 +96,9 @@ https://dart.dev/
 
 深入理解Android
 http://blog.csdn.net/column/details/innost.html
+
+史上最强Android保活思路：深入剖析腾讯TIM的进程永生技术
+https://www.cnblogs.com/imstudy/p/12191765.html
 
 MediaPlayer 状态机,接口方法解析
 https://blog.csdn.net/shulianghan/article/details/38487967
@@ -300,6 +315,12 @@ https://www.jianshu.com/p/c71ec5d63f0d
 
 ImageView的ScaleType原理及效果分析
 https://www.jianshu.com/p/fe5d2e3feed3
+
+【轮子】Android中的图片缩放
+https://www.jianshu.com/p/653807332079
+
+Android 图片缩放
+https://www.cnblogs.com/zhujiabin/p/5911731.html
 
 Google推荐的ListView的Adapter的局部刷新
 http://blog.csdn.net/linglongxin24/article/details/53020164?ref=myread
