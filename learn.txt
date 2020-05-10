@@ -91,6 +91,9 @@ http://www.cnblogs.com/xiaoweiz/p/3674836.html
 深入理解 MessageQueue
 https://pqpo.me/2017/05/03/learn-messagequeue/
 
+Android中的Looper与epoll
+https://www.jianshu.com/p/7bc2b86c4d89
+
 Android 开发知识技能点指南(彪哥的私人网站)
 https://www.kancloud.cn/yumufeng/get-android-offer/183778
 
