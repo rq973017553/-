@@ -94,6 +94,9 @@ https://pqpo.me/2017/05/03/learn-messagequeue/
 Android中的Looper与epoll
 https://www.jianshu.com/p/7bc2b86c4d89
 
+ViewRootImpl的独白，我不是一个View(布局篇)
+https://blog.csdn.net/stven_king/article/details/78775166
+
 Android 开发知识技能点指南(彪哥的私人网站)
 https://www.kancloud.cn/yumufeng/get-android-offer/183778
 
