@@ -46,6 +46,9 @@ https://www.jianshu.com/p/b3558fe64124
 Android N 各种ANR的时间
 http://blog.csdn.net/u013122625/article/details/74676666
 
+不错的博客
+https://www.jianshu.com/u/d0a8da7e2fc6
+
 保存/恢复 Activity 和 Fragment 状态的最佳实践
 https://segmentfault.com/a/1190000006691830
 
@@ -160,6 +163,9 @@ http://www.ihubin.com/blog/android-ffmpeg-demo-1/
 你不能错过的View事件分发机制分析(微信文章)
 https://mp.weixin.qq.com/s/-dS1M0eFKJEAA-7viMi8Vw
 
+你还在被触摸事件困扰吗？看看这篇吧
+https://blog.csdn.net/qq_31370269/article/details/86136363
+
 很好的自定义View教学
 https://hencoder.com/
 
@@ -216,6 +222,9 @@ http://www.cnblogs.com/kross/p/4025075.html
 
 FlyRefresh
 https://race604.com/flyrefresh/
+
+View的生命周期，源码解析(上)
+https://www.jianshu.com/p/45bab1f37199
 
 ViewPager使用详解(一):PagerAdapter
 http://www.jianshu.com/p/6fabf634d5bd
