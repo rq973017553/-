@@ -1,3 +1,9 @@
+Android源码在线查询网站
+http://androidxref.com/
+http://androidxref.cn/
+http://aosp.opersys.com/
+https://www.androidos.net.cn/
+
 解读Android官方MVP项目单元测试
 http://www.jianshu.com/p/cf446be43ae8
 
@@ -111,6 +117,15 @@ https://book.flutterchina.club/
 
 dart
 https://dart.dev/
+
+【轮子】Android中的图片缩放
+https://www.jianshu.com/p/653807332079
+
+运用BitmapFactory.Options来改善程序加载图片效率和避免内存溢出
+https://blog.csdn.net/hello_tree/article/details/11732293
+
+Bitmap.Config 属性详解及不同格式图片区别介绍
+https://blog.csdn.net/smile_Running/article/details/82019352
 
 深入理解Android
 http://blog.csdn.net/column/details/innost.html
