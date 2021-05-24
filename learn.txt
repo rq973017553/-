@@ -19,6 +19,15 @@ http://www.cnblogs.com/youxilua/archive/2013/05/20/3087935.html
 说说Makefile那些事儿
 http://www.cnblogs.com/yyangblog/p/4159778.html
 
+Android 违规获取用户隐私(获取MAC地址)整改
+https://blog.csdn.net/EthanCo/article/details/111544333
+
+Android获取敏感信息整改---基于Xposed的方法检测
+https://blog.csdn.net/DeMonliuhui/article/details/116191106
+
+Android审核：用户授权前获取mac地址，imei等用户敏感信息的方法（工信部要下架APP）
+https://www.jianshu.com/p/84127032d15a
+
 Make 命令教程
 http://www.ruanyifeng.com/blog/2015/02/make.html
 
