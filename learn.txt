@@ -19,6 +19,9 @@ http://www.cnblogs.com/youxilua/archive/2013/05/20/3087935.html
 说说Makefile那些事儿
 http://www.cnblogs.com/yyangblog/p/4159778.html
 
+解析ConstraintLayout的constraintDimensionRatio属性 看置顶的评论
+https://www.jianshu.com/p/321aa66a787f?tdsourcetag=s_pcqq_aiomsg
+
 Android 违规获取用户隐私(获取MAC地址)整改
 https://blog.csdn.net/EthanCo/article/details/111544333
 
