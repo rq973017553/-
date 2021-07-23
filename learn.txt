@@ -22,6 +22,12 @@ http://www.cnblogs.com/yyangblog/p/4159778.html
 Android阴影制作，通过.9patch来制作的
 https://inloop.github.io/shadow4android/
 
+MinGW-w64 - for 32 and 64 bit Windows
+https://sourceforge.net/projects/mingw-w64
+
+dart
+https://gekorm.com/dart-windows/
+
 解析ConstraintLayout的constraintDimensionRatio属性 看置顶的评论
 https://www.jianshu.com/p/321aa66a787f?tdsourcetag=s_pcqq_aiomsg
 
