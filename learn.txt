@@ -4,8 +4,26 @@ http://androidxref.cn/
 http://aosp.opersys.com/
 https://www.androidos.net.cn/
 
+https://geneva.cs.umd.edu/posts/usenix21-weaponizing-censors/
+将TCP反射放大的中间盒武器化
+
+关于RecyclerView你知道的不知道的都在这里
+https://www.cnblogs.com/dasusu/p/9159904.html
+
+深入分析Synchronized原理(阿里面试题)
+https://www.cnblogs.com/aspirant/p/11470858.html
+
+volatile与lock前缀指令
+https://www.cnblogs.com/badboys/p/12695183.html
+
 解读Android官方MVP项目单元测试
 http://www.jianshu.com/p/cf446be43ae8
+
+Binder | 内存拷贝的本质和变迁
+https://juejin.cn/post/6844904113046568973
+
+mmap
+https://www.cnblogs.com/huxiao-tee/p/4660352.html
 
 Android NDK笔记
 http://www.jianshu.com/p/339894f6e498
