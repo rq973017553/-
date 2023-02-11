@@ -10,6 +10,9 @@ https://geneva.cs.umd.edu/posts/usenix21-weaponizing-censors/
 关于RecyclerView你知道的不知道的都在这里
 https://www.cnblogs.com/dasusu/p/9159904.html
 
+不错的博客(白乾涛)
+https://www.cnblogs.com/baiqiantao
+
 深入分析Synchronized原理(阿里面试题)
 https://www.cnblogs.com/aspirant/p/11470858.html
 
@@ -45,6 +48,9 @@ https://sourceforge.net/projects/mingw-w64
 
 kotlin协程教程博客
 https://www.cnblogs.com/joy99/p/15805916.html
+
+全网最详细的Kotlin协程-异常篇讲解与踩坑
+https://www.jianshu.com/p/39f40e42b57b
 
 dart
 https://gekorm.com/dart-windows/
